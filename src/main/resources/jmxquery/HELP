@@ -19,7 +19,7 @@ Options are:
  -J <info attribute key>
         Attribute key for -I attribute compound data, for example, "used"
  -v[v[v[v]]]
-	    Verbatim level controlled as a number of v
+	    Verbosity level controlled as a number of v
  -w <limit>
 	    Warning long value
  -c <limit>
